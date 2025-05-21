@@ -1,0 +1,6 @@
+@steelman_HostAddress = http://steelman.top:5013
+
+GET {{steelman_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
